@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jedahdohma (Hal)
 - 👀 I’m interested in voice synthesizers and music
-- 🌱 I’m currently learning the basics of PowerShell
+- 🌱 I’m currently figuring out how Python works.
 - 💞️ I’m looking to collaborate on ... nothing unless needed. I'm an introvert!
 - 📫 How to reach me ... ask me for my Discord.
 - 😄 Pronouns: they/them, he/him, she/her, I don't really care.
